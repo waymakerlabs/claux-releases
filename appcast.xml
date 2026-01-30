@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Claux Updates</title>
+        <link>https://github.com/waymakerlabs/claux</link>
+        <description>Claux app updates</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.2.5</title>
+            <pubDate>Thu, 30 Jan 2026 15:17:00 +0900</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in v0.2.5</h2>
+                <ul>
+                    <li>Terminal text copy support: Select text and Cmd+C to copy</li>
+                    <li>Enhanced Input Mode documentation in README</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/waymakerlabs/claux-releases/releases/download/v0.2.5/Claux-0.2.5.dmg"
+                       sparkle:edSignature="K48EXES/oVY0fhFcfhMR8TLEenjyJmkEz+CiLf0A/7ZmK0vi4c252b/irTu4W5I9byVwOB85Arq0LuFaICHTAw=="
+                       length="4533156"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 0.2.3</title>
+            <pubDate>Wed, 29 Jan 2026 23:00:00 +0900</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in v0.2.3</h2>
+                <ul>
+                    <li>Enhanced Input Mode improvements: text selection, editing mode</li>
+                    <li>Message logging with project-based folders</li>
+                    <li>Arrow key behavior: ↑/↓ for history, ←/→ for cursor</li>
+                    <li>Paste text to input field, images to terminal</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/waymakerlabs/claux-releases/releases/download/v0.2.3/Claux-0.2.3.dmg"
+                       sparkle:edSignature="QEEEFBSn+SKzNI3PtbrCAtcWOgFfmU5MLVYARqyYM1SOdfFuKhTF1UBrLiSBdzWmg/lRL6MZNihu7d2qZKtXDA=="
+                       length="4532788"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 0.2.0</title>
+            <pubDate>Thu, 29 Jan 2026 10:43:39 +0900</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in v0.2.0</h2>
+                <ul>
+                    <li>Enhanced Input Mode: 한글 입력을 위한 전용 입력창 추가 (Preferences에서 활성화)</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/waymakerlabs/claux-releases/releases/download/v0.2.0/Claux-0.2.0.dmg"
+                       sparkle:edSignature="cfoHeAHMzoFCKoQt47tGFibczQykfKMUkZ+kap8tBZe1shxqemOrbix3y238NbSKiOBo3nzONlohIULBypTEAg=="
+                       length="4526144"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 0.1.10</title>
+            <pubDate>Wed, 28 Jan 2026 15:54:10 +0900</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Claux v0.1.10</h2>
+                <ul>
+                    <li>Add confirm button to feedback success dialog</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/waymakerlabs/claux-releases/releases/download/v0.1.10/Claux-0.1.10.dmg"
+                       length="3816445"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 0.1.8</title>
+            <pubDate>Tue, 28 Jan 2025 15:28:00 +0900</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Claux v0.1.8</h2>
+                <ul>
+                    <li>Clean architecture refactoring with DI and protocols</li>
+                    <li>91 unit and integration tests</li>
+                    <li>Improved memory management with Disposable pattern</li>
+                    <li>TerminalSession for better PTY lifecycle management</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/waymakerlabs/claux-releases/releases/download/v0.1.8/Claux-0.1.8.dmg"
+                       length="3816637"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>Version 0.1.6</title>
+            <pubDate>Tue, 28 Jan 2025 14:14:00 +0900</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Claux v0.1.6</h2>
+                <ul>
+                    <li>Initial public release</li>
+                    <li>Native macOS terminal with xterm.js</li>
+                    <li>Directory tree browser sidebar</li>
+                    <li>Custom keyboard shortcuts for Claude Code</li>
+                    <li>User feedback integration</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/waymakerlabs/claux-releases/releases/download/v0.1.6/Claux-0.1.6.dmg"
+                       length="1106852"
+                       type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
