@@ -6,6 +6,24 @@
         <description>Claux app updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.2.6</title>
+            <pubDate>Sun, 02 Feb 2026 08:51:00 +0900</pubDate>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in v0.2.6</h2>
+                <ul>
+                    <li>Fix: Cmd+C copy now works correctly in terminal</li>
+                    <li>Fix: Auto-update now works (corrected appcast URL)</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/waymakerlabs/claux-releases/releases/download/v0.2.6/Claux-0.2.6.dmg"
+                       sparkle:edSignature="5WI+lRyG+4vwviWmZR+1bF1KbfjLkY+Keb/2ywP3YZHDgFvAxZX0rM3xSL4yiX8jilGz67ySeBN0PY/FTHCmBw=="
+                       length="4533368"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.2.5</title>
             <pubDate>Thu, 30 Jan 2026 15:17:00 +0900</pubDate>
             <sparkle:version>41</sparkle:version>
