@@ -6,6 +6,23 @@
         <description>Claux app updates</description>
         <language>en</language>
         <item>
+            <title>Version 0.2.8</title>
+            <pubDate>Mon, 02 Feb 2026 10:25:56 +0900</pubDate>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Claux v0.2.8</h2>
+                <ul>
+                    <li>Bug fixes and improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/waymakerlabs/claux-releases/releases/download/v0.2.8/Claux-0.2.8.dmg"
+                       sparkle:edSignature="mgY+n9qfM+LkG34h5oG3TdeN6ugnx41s+N6cyNJGkdmANd8oqqPGPOh/kaHftBXbndDmxMobGKQ0kN8J0skPBw=="
+                       length="4534193"
+                       type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 0.2.7</title>
             <pubDate>Mon, 02 Feb 2026 10:15:37 +0900</pubDate>
             <sparkle:version>48</sparkle:version>
